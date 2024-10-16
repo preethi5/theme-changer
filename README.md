@@ -1,3 +1,7 @@
+# Context + State
+State is used to re-render the UI
+Context theme which is selected in root comp
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
